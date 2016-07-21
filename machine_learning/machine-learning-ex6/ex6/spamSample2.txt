@@ -1,0 +1,16 @@
+Hello, jasmin.
+Welcome to the regular Codeforces round.
+
+I'm glad to invite you to take part in Codeforces Round 341 (Div. 2). It starts on Sunday, January, 31, 2016 14:05 (UTC). The contest duration is 2 hours. The allowed programming languages are C/C++, Pascal, Perl, Java, C#, Python (2 and 3), Ruby, PHP, Haskell, Scala, OCaml, D, Go and JavaScript.
+
+The main round writers are minimario and memset123. Do not miss the round!
+
+The round will be held on the rules of Codeforces, so read the rules (here and here) beforehand.
+
+It will be for newcomers or participants from the second division (non-rated users or those having less than 1900 rating points). Want to compete? Do not forget to register for the contest and check your handle on the registrants page. The registration will be closed 5 minutes before the contest.
+
+If you have any questions, please feel free to ask me on the pages of Codeforces. If you no longer wish to receive these emails, click http://codeforces.com/unsubscribe/contests/6c60b23e7360e68c37bc8397f09363a0f18a47ea/ to unsubscribe.
+
+Wish you high rating,
+MikeMirzayanov and Codeforces team
+
